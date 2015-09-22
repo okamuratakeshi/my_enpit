@@ -9,4 +9,4 @@
 
 ブランチの練習
 
-new_branchに切替えて追記してみた
+new_branchに切替えて追記してみた(a_san)
